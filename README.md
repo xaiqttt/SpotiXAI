@@ -24,7 +24,8 @@ To run this script, you need to have the following Python packages installed:
 
 2. Navigate to the Project Directory Change into the project directory:
 
-`cd SpotiXAI`
+   ```bash
+   cd SpotiXAI
 
 
 3. Install Requirements You can install the required packages using pip. It's recommended to use a virtual environment, but you can also install them globally:
