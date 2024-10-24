@@ -20,12 +20,13 @@ To run this script, you need to have the following Python packages installed:
    First, clone this repository to your local machine using git:
 
    ```bash
-   git clone https://github.com/<your-username>/SpotiXAI.git
+   git clone https://github.com/xaiqttt/SpotiXAI.git
 
 Replace <your-username> with your GitHub username.
 
 2. Navigate to the Project Directory Change into the project directory:
 
+```bash
 cd SpotiXAI
 
 
@@ -45,7 +46,7 @@ pkg install git
 
 2. Clone the Repository Clone this repository to your Termux environment:
 
-git clone https://github.com/<your-username>/SpotiXAI.git
+git clone https://github.com/xaiqttt/SpotiXAI.git
 
 Replace <your-username> with your GitHub username.
 
@@ -65,20 +66,16 @@ For Windows
 
 1. Clone the Repository Open Command Prompt or PowerShell and clone the repository:
 
-git clone https://github.com/<your-username>/SpotiXAI.git
-
-Replace <your-username> with your GitHub username.
+git clone https://github.com/xaiqttt/SpotiXAI.git
 
 
 2. Navigate to the Project Directory Change into the project directory:
 
 cd SpotiXAI
 
-
 3. Install Requirements Install the required packages using pip:
 
 pip install -r requirements.txt
-
 
 
 Usage
