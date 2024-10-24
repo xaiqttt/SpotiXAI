@@ -27,18 +27,17 @@ To run this script, you need to have the following Python packages installed:
    ```bash
    cd SpotiXAI
 
-
 3. Install Requirements You can install the required packages using pip. It's recommended to use a virtual environment, but you can also install them globally:
 
    ```bash
    pip install -r requirements.txt
 
 
-
 ### For Termux (Android)
 
 1. Install Required Packages First, make sure you have Python and pip installed in Termux. You can install them with the following commands:
 
+   ```bash
 pkg install python
 pkg install git
 
