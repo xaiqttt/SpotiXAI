@@ -38,13 +38,14 @@ To run this script, you need to have the following Python packages installed:
 1. Install Required Packages First, make sure you have Python and pip installed in Termux. You can install them with the following commands:
 
    ```bash
-pkg install python
-pkg install git
+   pkg install python
+   pkg install git
 
 
 2. Clone the Repository Clone this repository to your Termux environment:
 
-git clone https://github.com/xaiqttt/SpotiXAI.git
+   ```bash
+   git clone https://github.com/xaiqttt/SpotiXAI.git
 
 
 3. Navigate to the Project Directory Change into the project directory:
