@@ -30,7 +30,8 @@ To run this script, you need to have the following Python packages installed:
 
 3. Install Requirements You can install the required packages using pip. It's recommended to use a virtual environment, but you can also install them globally:
 
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 
 
