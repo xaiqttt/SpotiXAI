@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 
 
-For Termux (Android)
+### For Termux (Android)
 
 1. Install Required Packages First, make sure you have Python and pip installed in Termux. You can install them with the following commands:
 
