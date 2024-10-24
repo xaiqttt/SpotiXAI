@@ -32,7 +32,6 @@ To run this script, you need to have the following Python packages installed:
    ```bash
    pip install -r requirements.txt
 
-
 ### For Termux (Android)
 
 1. Install Required Packages First, make sure you have Python and pip installed in Termux. You can install them with the following commands:
@@ -41,30 +40,27 @@ To run this script, you need to have the following Python packages installed:
    pkg install python
    pkg install git
 
-
 2. Clone the Repository Clone this repository to your Termux environment:
 
    ```bash
    git clone https://github.com/xaiqttt/SpotiXAI.git
 
-
 3. Navigate to the Project Directory Change into the project directory:
 
-cd SpotiXAI
-
+   ```bash
+   cd SpotiXAI
 
 4. Install Requirements Install the required packages using pip:
 
-pip install -r requirements.txt
-
-
+   ```bash
+   pip install -r requirements.txt
 
 Usage
 
 1. Run the Script You can now run the script using Python:
 
-python spotixai.py
-
+   ```bash
+   python spotixai.py
 
 2. Follow the Prompts
 
@@ -73,9 +69,7 @@ Enter the Spotify album or playlist URL when prompted.
 The script will download the album and display a loading animation.
 
 
-
 3. Download More Albums After the download is complete, you can choose to download another album or exit the program.
-
 
 
 Contributing
