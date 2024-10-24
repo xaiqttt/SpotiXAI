@@ -80,7 +80,7 @@ Feel free to submit issues or pull requests if you'd like to contribute to the p
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 
 ### Made by xaiqttt (Darwin)
 
