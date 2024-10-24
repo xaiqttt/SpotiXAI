@@ -72,17 +72,17 @@ The script will download the album and display a loading animation.
 3. Download More Albums After the download is complete, you can choose to download another album or exit the program.
 
 
-Contributing
+## Contributing
 
 Feel free to submit issues or pull requests if you'd like to contribute to the project.
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+##Acknowledgments
 
-Made by xaiqttt (Darwin)
+### Made by xaiqttt (Darwin)
 
 
 
