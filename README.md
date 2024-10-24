@@ -22,11 +22,8 @@ To run this script, you need to have the following Python packages installed:
    ```bash
    git clone https://github.com/xaiqttt/SpotiXAI.git
 
-Replace <your-username> with your GitHub username.
-
 2. Navigate to the Project Directory Change into the project directory:
 
-```bash
 cd SpotiXAI
 
 
@@ -48,8 +45,6 @@ pkg install git
 
 git clone https://github.com/xaiqttt/SpotiXAI.git
 
-Replace <your-username> with your GitHub username.
-
 
 3. Navigate to the Project Directory Change into the project directory:
 
@@ -62,27 +57,11 @@ pip install -r requirements.txt
 
 
 
-For Windows
-
-1. Clone the Repository Open Command Prompt or PowerShell and clone the repository:
-
-git clone https://github.com/xaiqttt/SpotiXAI.git
-
-
-2. Navigate to the Project Directory Change into the project directory:
-
-cd SpotiXAI
-
-3. Install Requirements Install the required packages using pip:
-
-pip install -r requirements.txt
-
-
 Usage
 
 1. Run the Script You can now run the script using Python:
 
-python spotixai_downloader.py
+python spotixai.py
 
 
 2. Follow the Prompts
@@ -110,14 +89,5 @@ Acknowledgments
 Made by xaiqttt (Darwin)
 
 
-### Key Additions
-- Added separate installation instructions for **Linux**, **Termux (Android)**, and **Windows** users to ensure clarity for different platforms.
-- Maintained a consistent format for each OS to make it easier for users to follow.
-
-### Final Steps
-1. Make sure to replace `<your-username>` with your actual GitHub username in the `README.md`.
-2. You can add any additional sections or details based on your preferences or any features you may want to highlight further.
-
-This comprehensive README should help users across different operating systems set up and use your SpotiXAI downloader effectively!
 
 
