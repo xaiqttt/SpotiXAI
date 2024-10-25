@@ -6,7 +6,7 @@ from threading import Thread
 
 def print_styled_title():
     title = """
- _       _   _   _
+       _       _   _   _
 __  ____ _(_) __ _| |_| |_| |_
 \\ \\/ / _` | |/ _` | __| __| __|
  >  < (_| | | (_| | |_| |_| |_
